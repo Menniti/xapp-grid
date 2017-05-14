@@ -1,0 +1,26 @@
+{
+  "name": "xapp-grid",
+  "version": "1.0.0",
+  "description": "xapp-grid-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Menniti/xapp-grid.git"
+  },
+  "keywords": [
+    "xapp",
+    "grid",
+    "node",
+    "test",
+    "training"
+  ],
+  "author": "Menniti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Menniti/xapp-grid/issues"
+  },
+  "homepage": "https://github.com/Menniti/xapp-grid#readme"
+}
