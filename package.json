@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Menniti/xapp-grid.git"
+    "url": "git+https://github.com/Menniti/xapp-grid.git"
   },
   "keywords": [
     "xapp",
@@ -29,5 +29,4 @@
     "body-parser": "^1.17.1",
     "mongoose": "^4.9.8"
   }
-
 }
